@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient_id: 1
+  name: MyString
+  age: 1
+  gender: MyString
+  dob: 2018-10-22
+  doctor: 1
+  email: MyString
+
+two:
+  patient_id: 1
+  name: MyString
+  age: 1
+  gender: MyString
+  dob: 2018-10-22
+  doctor: 1
+  email: MyString
